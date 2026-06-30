@@ -197,14 +197,15 @@ and a suggested code-availability paragraph.
 
 The code is distributed under the BSD-3-Clause license; see [`LICENSE`](LICENSE).
 
+The archived release is available on Zenodo:
+[`10.5281/zenodo.21071175`](https://doi.org/10.5281/zenodo.21071175).
+
 ## Remaining release metadata
 
-The remaining release metadata depends on the final GitHub/Zenodo/article
-identifiers:
+The remaining release metadata depends on optional author/article identifiers:
 
-1. replace placeholder DOI entries in `CITATION.cff` and `.zenodo.json` once
-   the Zenodo DOI and article DOI are known;
-2. add ORCID identifiers to `CITATION.cff` and `.zenodo.json`, if desired;
-3. confirm the final release tag, currently planned as `v1.0.0`.
+1. add ORCID identifiers to `CITATION.cff` and `.zenodo.json`, if desired;
+2. add article DOI metadata to `.zenodo.json` once the article DOI is known;
+3. confirm whether a metadata-only follow-up release is desired.
 
 See [`docs/RELEASE_CHECKLIST.md`](docs/RELEASE_CHECKLIST.md).

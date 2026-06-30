@@ -4,8 +4,9 @@ title: "Code for 'A Priori Error Analysis for the p-Stokes Equations with Slip B
 type: software
 version: 1.0.0
 license: BSD-3-Clause
+doi: "10.5281/zenodo.21071175"
 repository-code: "https://github.com/alexkaltenbach/pstokes-slip-pressure-code"
-url: "https://github.com/alexkaltenbach/pstokes-slip-pressure-code"
+url: "https://doi.org/10.5281/zenodo.21071175"
 authors:
   - family-names: Kaltenbach
     given-names: Alex

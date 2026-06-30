@@ -11,7 +11,7 @@ Use both GitHub and Zenodo:
    `pstokes-slip-pressure-code`.
 2. Push exactly this directory as the repository root.
 3. Replace the placeholder GitHub URL in `CITATION.cff`.
-4. Replace placeholder DOI entries in `.zenodo.json` once known.
+4. Add article DOI entries in `.zenodo.json` once known.
 5. Confirm the BSD-3-Clause license metadata in GitHub and Zenodo.
 6. Run the checks listed in `docs/RELEASE_CHECKLIST.md`.
 7. Create a GitHub release, e.g. `v1.0.0`.
@@ -29,13 +29,13 @@ and archived snapshot requested by many journals and referees.
 
 ## Suggested code-availability paragraph
 
-Replace the placeholders after the Zenodo release has been minted:
+Use the following paragraph in the article:
 
 ```latex
 \paragraph{Code availability.}
 The legacy-FEniCS implementation and numerical data used for the numerical
 experiments in Section~6 are archived on Zenodo
-(version~v1.0.0, DOI: \url{https://doi.org/10.5281/zenodo.XXXXXXX}).
+(version~v1.0.0, DOI: \url{https://doi.org/10.5281/zenodo.21071175}).
 The development repository is available at
 \url{https://github.com/alexkaltenbach/pstokes-slip-pressure-code}.
 ```
@@ -45,7 +45,7 @@ If the journal prefers a non-paragraph statement:
 ```latex
 \noindent\textbf{Code availability.}
 The code and numerical data used for the numerical experiments are available
-from Zenodo at \url{https://doi.org/10.5281/zenodo.XXXXXXX}; the corresponding
+from Zenodo at \url{https://doi.org/10.5281/zenodo.21071175}; the corresponding
 development repository is
 \url{https://github.com/alexkaltenbach/pstokes-slip-pressure-code}.
 ```

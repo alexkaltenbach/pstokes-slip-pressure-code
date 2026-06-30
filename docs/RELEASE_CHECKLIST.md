@@ -5,11 +5,12 @@
 - [x] Use the BSD-3-Clause license.
 - [x] Add the SPDX license identifier to `pyproject.toml`, `CITATION.cff`, and
       `.zenodo.json`.
+- [x] Record the Zenodo DOI in `CITATION.cff` and the documentation.
 - [x] Replace author initials with full names.
 - [ ] Add ORCID identifiers to `CITATION.cff` and `.zenodo.json`, if desired.
 - [x] Add `repository-code` to `CITATION.cff`.
 - [ ] Add `related_identifiers` to `.zenodo.json` once the article DOI is known.
-- [ ] Confirm release version `1.0.0` / Git tag `v1.0.0`.
+- [x] Confirm release version `1.0.0` / Git tag `v1.0.0`.
 
 ## Numerical verification
 
@@ -39,4 +40,4 @@
 - [ ] Set the release version consistently in `pyproject.toml`,
       `src/pstokes_fem/__init__.py`, `CITATION.cff`, and `CHANGELOG.md`.
 - [ ] Create a GitHub release from tag `v1.0.0`.
-- [ ] Archive the exact Git tag on Zenodo and record the generated DOI.
+- [x] Archive the exact Git tag on Zenodo and record the generated DOI.
