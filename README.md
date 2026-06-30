@@ -202,8 +202,8 @@ The code is distributed under the BSD-3-Clause license; see [`LICENSE`](LICENSE)
 The remaining release metadata depends on the final GitHub/Zenodo/article
 identifiers:
 
-1. replace placeholder repository/DOI entries in `CITATION.cff` and
-   `.zenodo.json` once the GitHub URL and article DOI are known;
+1. replace placeholder DOI entries in `CITATION.cff` and `.zenodo.json` once
+   the Zenodo DOI and article DOI are known;
 2. add ORCID identifiers to `CITATION.cff` and `.zenodo.json`, if desired;
 3. confirm the final release tag, currently planned as `v1.0.0`.
 

@@ -7,7 +7,7 @@
       `.zenodo.json`.
 - [x] Replace author initials with full names.
 - [ ] Add ORCID identifiers to `CITATION.cff` and `.zenodo.json`, if desired.
-- [ ] Add `repository-code` to `CITATION.cff` once the GitHub URL is known.
+- [x] Add `repository-code` to `CITATION.cff`.
 - [ ] Add `related_identifiers` to `.zenodo.json` once the article DOI is known.
 - [ ] Confirm release version `1.0.0` / Git tag `v1.0.0`.
 

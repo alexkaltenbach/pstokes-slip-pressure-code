@@ -37,7 +37,7 @@ The legacy-FEniCS implementation and numerical data used for the numerical
 experiments in Section~6 are archived on Zenodo
 (version~v1.0.0, DOI: \url{https://doi.org/10.5281/zenodo.XXXXXXX}).
 The development repository is available at
-\url{https://github.com/OWNER/pstokes-slip-pressure-code}.
+\url{https://github.com/alexkaltenbach/pstokes-slip-pressure-code}.
 ```
 
 If the journal prefers a non-paragraph statement:
@@ -47,7 +47,7 @@ If the journal prefers a non-paragraph statement:
 The code and numerical data used for the numerical experiments are available
 from Zenodo at \url{https://doi.org/10.5281/zenodo.XXXXXXX}; the corresponding
 development repository is
-\url{https://github.com/OWNER/pstokes-slip-pressure-code}.
+\url{https://github.com/alexkaltenbach/pstokes-slip-pressure-code}.
 ```
 
 ## License note
