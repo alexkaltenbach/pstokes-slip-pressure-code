@@ -1,0 +1,14 @@
+name: pstokes-slip-pressure-code
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - fenics=2019.1.0
+  - mumps-mpi
+  - numpy<2
+  - scipy<2
+  - sympy<2
+  - matplotlib<4
+  - pytest<9
+  - pip

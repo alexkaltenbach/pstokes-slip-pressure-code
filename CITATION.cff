@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software archive and the associated article."
+title: "Code for 'A Priori Error Analysis for the p-Stokes Equations with Slip Boundary Conditions: A Discrete Leray Projection Framework'"
+type: software
+version: 1.0.0
+license: BSD-3-Clause
+authors:
+  - family-names: Kaltenbach
+    given-names: Alex
+  - family-names: Wichmann
+    given-names: Jörn
+keywords:
+  - p-Stokes
+  - finite element method
+  - Navier slip
+  - Lagrange multiplier
+  - FEniCS
+  - reproducibility
+  - discrete Leray projection
+abstract: >-
+  Legacy-FEniCS implementation and reproducibility package for the numerical
+  experiments in Section 6 of the associated p-Stokes pressure-error article.
+  The package contains both strong and Lagrange-multiplier treatments of the
+  impermeability condition, convergence-table scripts, projection-stability
+  scripts, and the published numerical data.
+preferred-citation:
+  type: article
+  title: "A Priori Error Analysis for the p-Stokes Equations with Slip Boundary Conditions: A Discrete Leray Projection Framework"
+  authors:
+    - family-names: Kaltenbach
+      given-names: Alex
+    - family-names: Wichmann
+      given-names: Jörn
+  year: 2026
