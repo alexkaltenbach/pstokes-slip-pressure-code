@@ -2,14 +2,14 @@
 
 This experiment evaluates
 
-\[
+$$
 c_{\mathrm{stab}}^i(\mathcal J_h)
 =\max_j
 \frac{\|\mathcal J_h P_{V_h}\varphi_j\|_{L^r}}
      {\|P_{V_h}\varphi_j\|_{L^r}},
 \qquad
 \mathcal J_h\in\{\mathcal P_h,\mathcal P_h^\perp\},
-\]
+$$
 
 for the nodal basis of the unconstrained vector-valued P2 space. It is the
 basis-function indicator used in the article; it is not a proof of a uniform

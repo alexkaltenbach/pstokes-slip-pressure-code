@@ -28,9 +28,9 @@ The experiments from Sections 6.2 and 6.3 have separate entry points under
 
 The manufactured experiment uses inhomogeneous boundary data
 
-\[
+$$
 u\cdot n=g_n, \qquad (S(Du)n)_\tau=g_\tau,
-\]
+$$
 
 because this permits explicit solutions with controlled fractional regularity.
 See [`docs/NUMERICAL_METHOD.md`](docs/NUMERICAL_METHOD.md) for the precise
